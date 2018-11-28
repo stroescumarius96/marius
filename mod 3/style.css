@@ -1,0 +1,136 @@
+
+#Second, #Second th, #Second td {
+
+    border: 1px solid black;
+
+}
+ 
+#Second {
+
+border-collapse: collapse;
+
+}
+
+
+#third tr:nth-child(1) th{
+    border: 0;
+    border-bottom: 2px solid green;
+  }
+  #third{
+    border: 1px solid black;
+    border-collapse: collapse;
+    color: #66a8be
+
+
+
+  }
+
+  #Tour, #Tour th, #Tour td {
+
+    border: 1px solid black;
+  }
+
+  #Tour {
+    border-collapse: collapse;
+  }
+
+  #Tour {
+
+    text-align: center;
+  }
+
+  #Tour tr td:first-child{
+
+    text-align: left;
+
+  }
+
+  #ora, #ora th, #ora td{
+
+    border: 1px solid black;
+    padding: 10px;
+
+  }
+
+  #ora {
+    
+    border-collapse: collapse;
+  }
+
+  #ora td{
+
+text-align: center;
+
+  }
+
+  #ora th{
+
+    background-color: #95b3d7;
+  }
+
+  #ora thead th:nth-child(1){
+
+    background-color: white;
+  }
+
+  #tab, #tab th, #tab td{
+
+    border-bottom: 1px solid blue;
+    padding: 10px;
+    text-align: center;
+
+  }
+
+  #tab {
+  border: 1px solid blue;
+  border-collapse: collapse;
+  }
+
+  #tab th{
+
+    color: white;
+  
+    background-color: blue;
+  }
+
+  #ultimul, #ultimul th, #ultimul td{
+
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+  }
+
+  #ultimul {
+
+    border-collapse: collapse;
+  }
+  
+  #ultimul thead th{
+
+    background-color: blue;
+  }
+
+  #ultimul tbody th{
+
+    background-color: aqua;
+  }
+
+  #ultimul tbody td{
+
+    background-color: antiquewhite;
+  }
+  
+  #ultimul tfoot th{
+
+    background-color: yellow;
+  }
+
+  #ultimul tfoot td{
+
+    background-color: yellowgreen;
+  }
+
+  #ultimul thead tr:nth-child(2) th{
+
+    background-color: aqua;
+  }
